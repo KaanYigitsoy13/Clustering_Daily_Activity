@@ -18,5 +18,7 @@ Performance Evaluation: To evaluate the effectiveness of our clustering approach
 The analysis identifies three main clusters of daily activity:
 
 Cluster 0: Moderately active group with balanced engagement across different activity intensities.
+
 Cluster 1: Highly active, achieving the highest average caloric expenditure.
+
 Cluster 2: Least active, predominantly sedentary lifestyle.
