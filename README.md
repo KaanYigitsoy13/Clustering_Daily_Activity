@@ -4,8 +4,11 @@ This project employs K-means clustering to analyze user activity data. We utiliz
 
 **Steps**
 Data Preprocessing: Integration of data scaling and PCA to normalize differences in units (e.g., distance, minutes, calories).
+
 Exploratory Data Analysis: Detailed visualizations to explore underlying patterns in daily activity data.
+
 Clustering Analysis: Use of K-means clustering to derive insights from user activity patterns, comparing the performance of scaled and PCA-transformed data.
+
 Performance Evaluation: To evaluate the effectiveness of our clustering approaches, we employed several metrics to compare the clustering quality between scaled data and PCA-transformed data:
 
 
