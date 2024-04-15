@@ -3,6 +3,7 @@
 This project employs K-means clustering to analyze user activity data. We utilize scaling and Principal Component Analysis (PCA) for preprocessing and assess clustering performance using various metrics, including the silhouette, Calinski-Harabasz, and Davies-Bouldin scores. The objective is to identify activity trends and categorize days based on similar activity characteristics.
 
 **Steps**
+
 Data Preprocessing: Integration of data scaling and PCA to normalize differences in units (e.g., distance, minutes, calories).
 
 Exploratory Data Analysis: Detailed visualizations to explore underlying patterns in daily activity data.
@@ -13,6 +14,7 @@ Performance Evaluation: To evaluate the effectiveness of our clustering approach
 
 
 **Results**
+
 The analysis identifies three main clusters of daily activity:
 
 Cluster 0: Moderately active group with balanced engagement across different activity intensities.
